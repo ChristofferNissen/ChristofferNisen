@@ -11,7 +11,7 @@ My name is Christoffer Nissen and I'm a software developer/DevOps engineer. I'm 
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Zig-informational?style=flat&logo=zig&logoColor=white&color=F7A41D)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=F15A24)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
