@@ -8,14 +8,17 @@ My name is Christoffer Nissen and I'm a software developer/DevOps engineer. I'm 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=F15A24)
+![](https://img.shields.io/badge/Terminal-Alacritty-informational?style=flat&logo=alacritty&logoColor=white&color=F46D01)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Zig-informational?style=flat&logo=zig&logoColor=white&color=F7A41D)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=F15A24)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/CNCF_Community-Cloud_Native_Nordics-informational?style=flat&logo=cncf&logoColor=white&color=231F20)
+
 
 <!-- See https://github.com/MartinHeinz/MartinHeinz for blog post section when blog is up and running -->
 
