@@ -2,7 +2,7 @@
 
 <!-- [![Header](https://raw.githubusercontent.com/ChristofferNissen/ChristofferNissen/master/readme_header.png "Header")](https://christoffernissen.github.io/) -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/ChristofferNissen/ChristofferNissen/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://raw.githubusercontent.com/ChristofferNissen/ChristofferNissen/main/wave.gif" width="30px" height="30px" />
 
 My name is Christoffer Nissen and I'm a software developer/DevOps engineer. I'm from Copenhagen, Denmark. You can find me on [![LinkedIn][3.2]][3].
 
